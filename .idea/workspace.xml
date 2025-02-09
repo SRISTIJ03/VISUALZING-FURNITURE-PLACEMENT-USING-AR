@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fe5cc43-7817-4479-958e-6ad24602b23b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/SSFurniCraftARDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/DataModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/simform/ssfurnicraftar/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/Sristi/AR_Furniture_Placement/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/SSFurniCraftARApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/AR_Furniture_Placement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/LocalDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/LocalDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/SSFurniCraftARDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/converter/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/converter/Converters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/dao/CategoryAndProductDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/dao/CategoryAndProductDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/dao/CategoryDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/dao/CategoryDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/dao/ProductDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/dao/ProductDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/dao/RemoteKeyDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/dao/RemoteKeyDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/model/CategoryEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/model/CategoryEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/model/CategoryProductCrossRef.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/model/CategoryProductCrossRef.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/model/ProductEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/model/ProductEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/local/database/model/RemoteKey.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/local/database/model/RemoteKey.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/model/Category.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/model/Category.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/model/CategoryInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/model/CategoryInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/model/DownloadInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/model/DownloadInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/model/PlaneType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/model/PlaneType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/model/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/model/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/NetworkDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/NetworkDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/api/DownloadService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/api/DownloadService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/apiresult/ApiResult.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/apiresult/ApiResult.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/apiresult/ApiResultCall.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/apiresult/ApiResultCall.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/apiresult/ApiResultCallAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/apiresult/ApiResultCallAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/apiresult/ApiResultCallAdapterFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/apiresult/ApiResultCallAdapterFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/interceptor/ApiAuthenticator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/interceptor/ApiAuthenticator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/mediator/ModelRemoteMediator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/mediator/ModelRemoteMediator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Archives.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Archives.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Avatar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Avatar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/AvtarImage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/AvtarImage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Category.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Category.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Cursors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Cursors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/DownloadStatus.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/DownloadStatus.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Image.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Image.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/License.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/License.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/ModelData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/ModelData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/NetworkDownload.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/NetworkDownload.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/NetworkDownloadInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/NetworkDownloadInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/NetworkModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/NetworkModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/NetworkModels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/NetworkModels.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Tag.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Tag.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/Thumbnails.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/Thumbnails.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/remote/model/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/remote/model/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/repository/ModelRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/repository/ModelRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/repository/ModelRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/repository/ModelRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/utils/ConnectivityManagerNetworkMonitor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/utils/ConnectivityManagerNetworkMonitor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/utils/FileHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/utils/FileHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/utils/FileHelperImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/utils/FileHelperImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/data/utils/NetworkMonitor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/data/utils/NetworkMonitor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/ApiModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/ApiModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/AppBindingModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/AppBindingModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/CoroutinesModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/CoroutinesModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/CoroutinesQualifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/CoroutinesQualifier.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/DataModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/di/DatabaseModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/di/DatabaseModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/domain/DownloadModelUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/domain/DownloadModelUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/domain/GetDownloadInfoUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/domain/GetDownloadInfoUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/domain/GetPlaneTypeByCategoryUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/domain/GetPlaneTypeByCategoryUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/domain/GetProductCategoriesUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/domain/GetProductCategoriesUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/domain/GetProductCategoryUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/domain/GetProductCategoryUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/domain/GetProductsUseCase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/domain/GetProductsUseCase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/navigation/AppNavHost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/navigation/AppNavHost.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/AppState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/AppState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/SSFurniCraftARApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/SSFurniCraftARApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/ARViewScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/ARViewScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/ARViewUiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/ARViewUiState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/ARViewViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/ARViewViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/ColorState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/ColorState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/component/ARCoachingOverlay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/component/ARCoachingOverlay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/component/ARView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/component/ARView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/component/GestureOverlay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/component/GestureOverlay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/component/Options.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/component/Options.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/arview/navigation/ARViewNavigation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/arview/navigation/ARViewNavigation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/component/ColorPicker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/component/ColorPicker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/component/QuitDialog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/component/QuitDialog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/download/DownloadScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/download/DownloadScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/download/DownloadUiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/download/DownloadUiState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/download/DownloadViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/download/DownloadViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/download/navigation/DownloadNavigation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/download/navigation/DownloadNavigation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/modifier/ShimmerEffect.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/modifier/ShimmerEffect.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/products/ProductsScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/products/ProductsScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/products/ProductsViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/products/ProductsViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/products/navigation/ProductsNavigation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/products/navigation/ProductsNavigation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/theme/Dimension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/theme/Dimension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/ResourceHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/ResourceHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/YuvToRgbConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/YuvToRgbConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/constant/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/constant/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/constant/Urls.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/constant/Urls.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/ARSceneViewExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/ARSceneViewExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/ApiResultExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/ApiResultExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/BitmapExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/BitmapExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/ColorExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/ColorExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/ContextExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/ContextExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/LoaderExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/LoaderExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/MaterialInstanceExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/MaterialInstanceExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/NodeExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/NodeExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/NumberExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/NumberExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/PathExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/PathExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/PlaneTypeExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/PlaneTypeExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/extension/StringExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/extension/StringExtension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/result/Result.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/result/Result.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/simform/ssfurnicraftar/utils/saver/ColorSaver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/Sristi/AR_Furniture_Placement/utils/saver/ColorSaver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_model_placeholder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_model_placeholder.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/simform/ssfurnicraftar/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/Sristi/AR_Furniture_Placement/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\ANDREWVIVANX\.android\avd\Medium_Phone.avd)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2smzB7j7gerOzjzI2OyfbVR0hZa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ANDREWVIVANX/Pictures/AR_Furniture_Placement/AR_Furniture_Placement",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="AR_Furniture_Placement.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SSCompose-FurniCraftAR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SSCompose-FurniCraftAR" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fe5cc43-7817-4479-958e-6ad24602b23b" name="Changes" comment="" />
+      <created>1739075399274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739075399274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.simform.ssfurnicraftar">
+          <value>
+            <CheckInfo lastCheckTimestamp="1739083590500" />
+          </value>
+        </entry>
+        <entry key="com.simform.ssfurnicraftar.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1739083590500" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AR_Furniture_Placement</string>
+    <string name="not_connected">Looks like you\'re offline &#9888;&#65039;. Please reconnect!</string>
+    <string name="confirm">Confirm</string>
+    <string name="share">Share</string>
+
+    <!-- Products Screen -->
+    <string name="no_data">No Data</string>
+    <string name="category_unknown">Unknown</string>
+    <string name="category_table">Table</string>
+    <string name="category_chair">Chair</string>
+    <string name="category_bed">Bed</string>
+    <string name="category_sofa">Sofa</string>
+    <string name="category_desk">Desk</string>
+    <string name="category_ac">AC</string>
+
+    <!-- Download Screen -->
+    <string name="title_quit_download">Are you sure you want to quit download?</string>
+    <string name="downloading" tools:ignore="TypographyEllipsis">[%1$d\%%] Downloading...</string>
+    <string name="download_completed">Download completed.</string>
+
+    <!-- ARView Screen -->
+    <string name="color_picker">Color picker</string>
+    <string name="reset_color">Reset color</string>
+    <string name="dynamic_color">Dynamic color</string>
+    <string name="dynamic_color_enabled">Dynamic color enabled.</string>
+    <string name="title_arview_quit">Are you sure you want to quit AR View?</string>
+    <string name="message_share">View in your space: \n%1$s</string>
+    <string name="model_placed_successfully">Model placed successfully.</string>
+    <string name="cd_rotate_360">Rotate 360°</string>
+    <string name="message_auto_rotation_started">Auto rotation started. Tap on model to stop.</string>
+    <string name="message_auto_rotation_stopped">Auto rotation stopped.</string>
+    <string name="message_move_gesture">Move model around the detected surface</string>
+    <string name="message_rotate_gesture">Rotate the model by using two fingers</string>
+    <string name="message_zoom_gesture">Zoom in or out on the model by using a pinch gesture</string>
+    <string name="message_scan_horizontal_plane">Scan horizontal plane</string>
+    <string name="message_scan_vertical_plane">Scan vertical plane</string>
+    <string name="message_scan_any_plane">Scan any plane surface</string>
+</resources>
